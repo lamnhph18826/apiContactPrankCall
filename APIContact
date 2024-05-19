@@ -59,6 +59,116 @@
             "isCelebrity": true,
             "adsVc": true,
             "adsMs": true
+        },
+        {
+            "id": 7,
+            "name": "Needy Girlfriend",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Needy Girlfriend.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Needy Girlfriend.mp4",
+            "messenger": "Friend!!!…please talk to me.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 8,
+            "name": "Manipulative Mandy",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Manipulative Mandy.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Manipulative Mandy.mp4",
+            "messenger": "You need help, talk to me.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 9,
+            "name": "Manipulative Mandy 2",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Manipulative Mandy 2.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Manipulative Mandy 2.mp4",
+            "messenger": "Helping you makes me feel happy.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 10,
+            "name": "Justin Bieber",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Justin Bieber.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Justin Bieber.mp4",
+            "messenger": "Never say never.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 11,
+            "name": "Girl Friend",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Girl Friend.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Girl Friend.mp4",
+            "messenger": "What are you doing?",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 12,
+            "name": "Gibi",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Gibi.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Gibi.mp4",
+            "messenger": "How are you today?",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 13,
+            "name": "Friends",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Friends.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Friends.mp4",
+            "messenger": "It would be great if you could talk to me",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 14,
+            "name": "Daisy",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Daisy.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Daisy.mp4",
+            "messenger": "I'm not trying to be someone I'm not. I'm just trying to be me.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 15,
+            "name": "Boyfriend",
+           "avatar":"https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Boyfriend.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Boyfriend.mp4",
+            "messenger": "Don't let people tell you who you are. Tell them.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 16,
+            "name": "Billie Eilish",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Billie Eilish.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Billie Eilish.mp4",
+            "messenger": "I'm not afraid to be different. I don't care what others think of me. I'm just here to be myself.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
+        },
+        {
+            "id": 17,
+            "name": "Best Friend",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Best Friend.png",
+            "video": "https://prank-effect.pranksound.com/fake-video/video/Best Friend.mp4",
+            "messenger": "We all have demons. But what matters is how we handle them.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
         }
     ]
 }
