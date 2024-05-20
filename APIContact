@@ -8,7 +8,7 @@
             "messenger": "Be strong and focused",
             "isCelebrity": true,
             "adsVc": true,
-            "adsMs": true
+            "adsMs": false
         },
         {
             "id": 2,
@@ -17,7 +17,7 @@
             "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Elon Musk.mp4",
             "messenger": "I want to spend a lot of money.",
             "isCelebrity": true,
-            "adsVc": false,
+            "adsVc": true,
             "adsMs": false
         },
         {
