@@ -229,6 +229,16 @@
             "isCelebrity": true,
             "adsVc": true,
             "adsMs": true
+        },
+        {
+            "id": 124,
+            "name": "Mina",
+            "avatar": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/Mina.png",
+            "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Mina.mp4",
+            "messenger": "We all have demons. But what matters is how we handle them.",
+            "isCelebrity": true,
+            "adsVc": true,
+            "adsMs": true
         }
     ]
 }
