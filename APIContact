@@ -237,8 +237,8 @@
             "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Mina.mp4",
             "messenger": "If you work hard, you can achieve anything.",
             "isCelebrity": true,
-            "adsVc": true,
-            "adsMs": true
+            "adsVc": false,
+            "adsMs": false
         },
         {
             "id": 125,
@@ -257,7 +257,7 @@
             "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Shua.mp4",
             "messenger": "No matter what people say, we'll keep going our own way.",
             "isCelebrity": true,
-            "adsVc": false,
+            "adsVc": true,
             "adsMs": true
         },
         {
@@ -267,7 +267,7 @@
             "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Boo.mp4",
             "messenger": "The only way to learn is to do it.",
             "isCelebrity": true,
-            "adsVc": false,
+            "adsVc": true,
             "adsMs": true
         },
         {
@@ -277,7 +277,7 @@
             "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Miani.mp4",
             "messenger": "We want to make music that can heal people.",
             "isCelebrity": true,
-            "adsVc": false,
+            "adsVc": true,
             "adsMs": true
         },
         {
@@ -288,7 +288,7 @@
             "messenger": "We want to be the best artists we can be.",
             "isCelebrity": true,
             "adsVc": false,
-            "adsMs": true
+            "adsMs": false
         },
         {
             "id": 130,
@@ -307,7 +307,7 @@
             "video": "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prank_video/Jimin.mp4",
             "messenger": "I am so grateful that all of you love us. We are happy because of you, and we can work harder because of you. I love you!",
             "isCelebrity": true,
-            "adsVc": false,
+            "adsVc": true,
             "adsMs": true
         }
     ]
